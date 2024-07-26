@@ -29,6 +29,18 @@ The classification part used:
 - Convolutioal Neural Network
 - RandomForest
 
+# Results:
+## Detection:
+Training accuracy / Validation accuracy
+- SVM (linear): 100% / 97.81%
+- SVM (Rbf): 86.21% / 81.80%
+- SVM (Poly): 89.02% / 84.45%
+
+## Classification:
+Training accuracy / Validation accuracy
+- DeepLearning (CNN): 93.12%
+- RandomForest: 99.96% / 93.13%
+  
 # Reference:
 https://www.kaggle.com/code/jeongwoopark/alzheimer-detection-and-classification-98-7-acc
 https://www.kaggle.com/code/gonzalorecioc/alzheimer-brain-mri-classifier-effnetb0-99-acc

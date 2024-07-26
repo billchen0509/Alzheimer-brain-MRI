@@ -17,7 +17,7 @@ The [dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-datas
 - Moderate Demented (middle stage): Marked by increased confusion, significant memory loss, and greater difficulty in communication and performing complex tasks. Behavioral changes and a higher need for daily assistance become evident, as independence decreases.
 
 # Method 
-In this notebook, I decided to focus on two tasks, Alzhemier Detection and Classification, where detection problem is to determine whether the patient carried the AD or not. 
+In this notebook, focusing on two tasks, Alzhemier Detection and Classification, where detection problem is to determine whether the patient carried the AD or not. 
 
 On the other hand, the classification problem will focus on the differentiating the classes of AD stages.
 

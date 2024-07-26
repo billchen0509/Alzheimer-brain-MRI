@@ -29,3 +29,6 @@ The classification part used:
 - Convolutioal Neural Network
 - RandomForest
 
+# Reference:
+https://www.kaggle.com/code/jeongwoopark/alzheimer-detection-and-classification-98-7-acc
+https://www.kaggle.com/code/gonzalorecioc/alzheimer-brain-mri-classifier-effnetb0-99-acc

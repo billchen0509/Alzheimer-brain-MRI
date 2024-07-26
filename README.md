@@ -37,8 +37,9 @@ Training accuracy / Validation accuracy
 - SVM (Poly): 89.02% / 84.45%
 
 ## Classification:
-Training accuracy / Validation accuracy
 - DeepLearning (CNN): 93.12%
+
+Training accuracy / Validation accuracy
 - RandomForest: 99.96% / 93.13%
   
 # Reference:

@@ -15,3 +15,16 @@ The [dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-datas
 - Mild Demented (early stage): Characterized by noticeable memory issues and cognitive challenges, such as difficulty with planning and organizing. Individuals may struggle with remembering recent events and may experience changes in mood or personality, yet can still manage daily tasks with some support.
 
 - Moderate Demented (middle stage): Marked by increased confusion, significant memory loss, and greater difficulty in communication and performing complex tasks. Behavioral changes and a higher need for daily assistance become evident, as independence decreases.
+
+# Method 
+In this notebook, I decided to focus on two tasks, Alzhemier Detection and Classification, where detection problem is to determine whether the patient carried the AD or not. 
+
+On the other hand, the classification problem will focus on the differentiating the classes of AD stages.
+
+The detection part used:
+- PCA
+- SVM
+
+The classification part used:
+- Convolutioal Neural Network
+- RandomForest
